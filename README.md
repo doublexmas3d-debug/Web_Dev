@@ -10,4 +10,4 @@ Focus: Crafting professional and responsive web solutions.
 
 Portfolio: doublexmas3d-debug.github.io/Web_Dev/
 
-Would you like me to add a specific section for your skills or tech stack to make the profile look even more comprehensive?
+
