@@ -8,6 +8,6 @@ Role: Website Designer
 
 Focus: Crafting professional and responsive web solutions.
 
-Portfolio: [doublexmas3d-debug.github.io/Web_Dev/](url)
+Portfolio: __doublexmas3d-debug.github.io/Web_Dev/__
 
 
