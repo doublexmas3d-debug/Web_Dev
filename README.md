@@ -1,4 +1,13 @@
-# Web_De
-Hi .My name's Atul and I'm a proffesional website designer.
+# Web_Dev
 
-visit my website here  
+I specialize in creating clean, functional, and user-focused web experiences. You can explore my work and view my portfolio by visiting the link below:
+
+🌐 Visit My Website
+About Me
+Role: Website Designer
+
+Focus: Crafting professional and responsive web solutions.
+
+Portfolio: doublexmas3d-debug.github.io/Web_Dev/
+
+Would you like me to add a specific section for your skills or tech stack to make the profile look even more comprehensive?
